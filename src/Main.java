@@ -25,6 +25,17 @@ public class  Main {
         alumna edad_mayor = alumna.mayor(alumna1,alumna2);
         System.out.println("Alumno con mayor edad: ");
         edad_mayor.respuesta();
+
+
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        fecha f = new fecha();
+        f.setDia(6);
+        f.setMes("Julio");
+        f.setAnio(2018);
+        System.out.println("dia: "+ f.getDia() + " mes: " +f.getMes()+ " anio: "+ f.getAnio());
+
+
     }
 
 
