@@ -35,6 +35,17 @@ public class  Main {
         f.setAnio(2018);
         System.out.println("dia: "+ f.getDia() + " mes: " +f.getMes()+ " anio: "+ f.getAnio());
 
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        persona p1 = new persona(22, "Brenda");
+        persona p2 = new persona(15, "Sergio");
+        p1.datos();
+        p2.datos();
+
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        leon l1 = new leon();
+
 
     }
 

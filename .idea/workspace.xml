@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f69de5c-bbc9-4964-8d36-434a870467eb" name="Changes" comment="Getter&#10;Setter">
-      <change afterPath="$PROJECT_DIR$/src/fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/padre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -58,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hijo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hijo" />
+      <module name="Java Curso Poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="moto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moto" />
       <module name="Java Curso Poo" />
@@ -68,6 +77,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.hijo" />
         <item itemvalue="Application.alumno" />
         <item itemvalue="Application.moto" />
         <item itemvalue="Application.auto" />
@@ -90,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678510259727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Getter&#10;Setter">
+      <created>1678595235540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678595235540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit" />
+    <MESSAGE value="Getter&#10;Setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getter&#10;Setter" />
   </component>
 </project>
