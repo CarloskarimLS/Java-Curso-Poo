@@ -46,6 +46,15 @@ public class  Main {
         System.out.println("--------------------------------");
         leon l1 = new leon();
 
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        arroz arroz_nuevo = new arroz();
+        arroz_nuevo.setMarca("Isadora");
+        arroz_nuevo.setPeso(100);
+        System.out.println(arroz_nuevo.getPesogr());
+        System.out.println(arroz_nuevo.getPesokg());
+
+
 
     }
 
