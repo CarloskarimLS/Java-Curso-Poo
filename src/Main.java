@@ -54,8 +54,31 @@ public class  Main {
         System.out.println(arroz_nuevo.getPesogr());
         System.out.println(arroz_nuevo.getPesokg());
 
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        clase_externa obj_externo = new clase_externa();
+        clase_externa.clase_interna obj_interno = obj_externo.new clase_interna();
+        System.out.println(obj_interno.obj_interno_metodo());
 
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        ciudad paris = new ciudad();
+        paris.informacion();
 
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        fruta nueva_fruta = new fruta();
+        fruta manzana = new manzana();
+        fruta platano = new platano();
+        nueva_fruta.color_fruta();
+        manzana.color_fruta();
+        platano.color_fruta();
+
+        //-------------------------------------
+        System.out.println("--------------------------------");
+        club barcelona_fc = new club();
+        barcelona_fc.ciudad();
+        barcelona_fc.pais_origen();
     }
 
 

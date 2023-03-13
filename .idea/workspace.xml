@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f69de5c-bbc9-4964-8d36-434a870467eb" name="Changes" comment="Herencia&#10;This&#10;Super">
-      <change afterPath="$PROJECT_DIR$/src/arroz.java" afterDir="false" />
+    <list default="true" id="8f69de5c-bbc9-4964-8d36-434a870467eb" name="Changes" comment="Encapsulamiento">
+      <change afterPath="$PROJECT_DIR$/src/clase_externa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/futbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -112,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678694833746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Encapsulamiento">
+      <created>1678727122391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727122391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +140,7 @@
     <MESSAGE value="Primer Commit" />
     <MESSAGE value="Getter&#10;Setter" />
     <MESSAGE value="Herencia&#10;This&#10;Super" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herencia&#10;This&#10;Super" />
+    <MESSAGE value="Encapsulamiento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamiento" />
   </component>
 </project>
